@@ -1,1 +1,1 @@
-./tool/docker/Gemfile
+/tool/docker/Gemfile
